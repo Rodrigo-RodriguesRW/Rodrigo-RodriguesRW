@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou Rodrigo Rodrigues
 
-<!--
-**Rodrigo-RodriguesRW/Rodrigo-RodriguesRW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+📍 Escola Técnica Estadual de Pernambuco – PE  
+📚 Atualmente no 1º módulo (2026)  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Sou estudante focado em aprender programação e desenvolvimento de software.  
+Estou construindo meus conhecimentos em lógica de programação e buscando evoluir diariamente na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo
+Busco uma oportunidade de estágio em TI para aplicar meus conhecimentos e ganhar experiência prática.
+
+## 📖 Atualmente estudando
+- Lógica de Programação  
+- Algoritmos  
+- Desenvolvimento de Software
+
+## 💼 Experiência e Formação
+- 15 anos de experiência em logística e transportes.  
+- Graduado em Administração.  
+- Técnico em Logística.  
+- Atualmente estudando Análise e Desenvolvimento de Sistemas (ADS) para migrar para a área de tecnologia.
