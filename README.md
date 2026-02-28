@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 Sobre mim
-Estudante de ADS, focado em programação e desenvolvimento de software.  
-Busco aplicar meus conhecimentos em projetos práticos, desenvolver minhas habilidades e aprender com profissionais da área de tecnologia.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), iniciando meus estudos em programação e desenvolvimento de software.
+Busco oportunidades para praticar, aprender na prática e desenvolver minhas habilidades com o apoio de profissionais experientes.
 
 ---
 
