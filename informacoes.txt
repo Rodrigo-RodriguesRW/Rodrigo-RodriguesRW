@@ -1,0 +1,7 @@
+Atividade de Git e GitHub
+
+Aluno: Rodrigo Rodrigues
+Curso: Desenvolvimento de Sistemas
+Ano: 2026
+
+Este arquivo foi criado para atender aos requisitos da atividade.
