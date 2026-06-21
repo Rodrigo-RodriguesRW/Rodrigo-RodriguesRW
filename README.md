@@ -37,11 +37,6 @@ Busco um **estágio em TI** para aplicar os conhecimentos adquiridos, ganhar exp
 - **Sistema de Controle de Rotas (Python)**  
   Projeto concebido para controlar entregas e faturamento por rota. Toda a **ideia, incluindo cidades, tarifas e regras de design**, foi definida por mim com base em dados reais.  
   O código foi implementado em **Python** utilizando **pandas** para manipulação de dados e **VS Code** como ambiente de desenvolvimento.  
-  Funcionalidades:  
-  - Registrar quantidades B2B e B2C  
-  - Calcular valores por rota  
-  - Salvar histórico de dados  
-  - Exportar para Excel
 
 Tecnologias utilizadas:
   - Python
