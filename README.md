@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou Rodrigo Rodrigues
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+🎓 Estudante de Desenvolvimento de Sistemas (DS)  
 📍 Escola Técnica Estadual de Pernambuco – PE  
 📚 Atualmente no 1º módulo (2026)
 
 ---
 
 ## 🚀 Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas (ADS), iniciando meus estudos em programação e desenvolvimento de software.
+Estudante de Desenvolvimento de Sistemas (DS), iniciando meus estudos em programação e desenvolvimento de software.
 Busco oportunidades para praticar, aprender na prática e desenvolver minhas habilidades com o apoio de profissionais experientes.
 
 ---
@@ -29,7 +29,7 @@ Busco um **estágio em TI** para aplicar os conhecimentos adquiridos, ganhar exp
 - 🚚 15 anos de experiência em logística e transportes, com foco em **organização, resolução de problemas e trabalho em equipe**  
 - 🎓 Graduado em Administração  
 - 📦 Técnico em Logística  
-- 👨‍💻 Atualmente estudando ADS para migrar para a área de tecnologia
+- 👨‍💻 Atualmente estudando DS para migrar para a área de tecnologia
 
 ---
 
