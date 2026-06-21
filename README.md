@@ -41,6 +41,28 @@ Busco um **estágio em TI** para aplicar os conhecimentos adquiridos, ganhar exp
   - Registrar quantidades B2B e B2C  
   - Calcular valores por rota  
   - Salvar histórico de dados  
-  - Exportar para Excel  
+  - Exportar para Excel
+
+Tecnologias utilizadas:
+  - Python
+  - Pandas
+  - VS Code
+
+Funcionalidades:
+  - Registrar quantidades B2B e B2C
+  - Calcular valores por rota
+  - Salvar histórico de dados
+  - Exportar relatórios para Excel
+    
+📫 Contato
+GitHub: [Rodrigo-RodriguesRW](https://github.com/Rodrigo-RodriguesRW)
+LinkedIn: https://www.linkedin.com/in/rodrigo-william-585839371
+
+
+
+
+
+
+
 
 
