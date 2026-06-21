@@ -21,18 +21,18 @@ Busco um estágio em TI para aplicar os conhecimentos adquiridos, ganhar experi�
 
 ## 💼 Experiência e Formação
 
-- 🚚 15 anos de experiência em logística e transportes, com foco em organização, resolução de problemas e trabalho em equipe
+- 🚚 15 anos de experiência em logística e transportes
 - 🎓 Graduado em Administração
 - 📦 Técnico em Logística
-- 👨‍💻 Atualmente estudando Desenvolvimento de Sistemas para migrar para a área de tecnologia
+- 👨‍💻 Estudando Desenvolvimento de Sistemas para migração de carreira
 
 ## 🛠️ Projetos
 
 ### Sistema de Controle de Rotas (Python)
 
-Projeto concebido para controlar entregas e faturamento por rota. Toda a ideia, incluindo cidades, tarifas e regras de negócio, foi definida por mim com base em dados reais.
+Projeto para controle de entregas e faturamento por rota.
 
-O código foi implementado em Python utilizando Pandas para manipulação de dados e VS Code como ambiente de desenvolvimento.
+Toda a ideia, incluindo cidades, tarifas e regras de negócio, foi baseada em dados reais.
 
 ### Tecnologias utilizadas
 
@@ -49,6 +49,5 @@ O código foi implementado em Python utilizando Pandas para manipulação de dad
 
 ## 📫 Contato
 
-GitHub: https://github.com/Rodrigo-RodriguesRW
-
-LinkedIn: https://www.linkedin.com/in/rodrigo-william-585839371
+- GitHub: https://github.com/Rodrigo-RodriguesRW  
+- LinkedIn: https://www.linkedin.com/in/rodrigo-william-585839371
