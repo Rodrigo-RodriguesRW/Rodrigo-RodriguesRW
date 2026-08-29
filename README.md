@@ -121,7 +121,6 @@ O projeto simula uma plataforma de comunicação e gestão entre **Gestão, Prof
 🔧 Git
 🐙 GitHub
 📊 Excel
-📈 Power BI
 
 ## 📈 Minha evolução
 
